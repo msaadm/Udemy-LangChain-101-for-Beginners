@@ -1,0 +1,10 @@
+.env 
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Python
+**/__pycache__/
+**/.pytest_cache/
+**/my-env/
